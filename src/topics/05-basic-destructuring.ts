@@ -1,0 +1,3 @@
+interface AudioPlayer {
+    audioVolume: number
+}
